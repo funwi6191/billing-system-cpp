@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1782246334 source:c:\users\dell\onedrive\desktop\c++ projects\billingsystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+
